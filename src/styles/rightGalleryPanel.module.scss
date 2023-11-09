@@ -1,0 +1,107 @@
+.main {
+    width: 100%;
+    height: 923px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #041B32;
+    color: white;
+  }
+
+  .mainWrapper {
+    width: 997px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+  }
+  
+  .title {
+    font-size: 90px;
+    margin-bottom: 40px;
+    left: 0;
+  }
+  
+  .wrapper {
+    width: 999px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
+  
+  .BigItem {
+    margin-right: 20px;
+  }
+  
+  .ItemBigImg {
+    margin-bottom: 30px;
+  }
+  
+  .ItemBigDiscription {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  
+  .ItemBigDate {
+    font-size: 14px;
+    color: #1081E8;
+  }
+  
+  .list {
+    display: flex;
+    justify-content: start;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  
+  .Item {
+    width: 429px;
+    height: 107px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .ItemImg {
+  
+  }
+  
+  .ItemDiscriptionWrapper {
+    height: 100%;
+    width: 279px;
+    position: relative;
+  }
+  
+  .ItemDiscription {
+    position: absolute;
+    font-size: 14px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ItemDate {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    font-size: 14px;
+    color:#1081E8;
+  }
+  
+  
+  
+  
+  .Btn {
+    width: 230px;
+    height: 42px;
+    /* margin: auto; */
+    margin-top: 40px;
+    margin-bottom: 0;
+    bottom: 0px;
+    font-size: 18px;
+    background-color: #1081E8;
+    color: white;
+    border: none;
+    border-radius: 56px;
+  }

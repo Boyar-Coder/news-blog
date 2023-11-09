@@ -1,0 +1,54 @@
+.pt40 {
+    padding-top: 40px;
+}
+
+.footer {
+    position: relative;
+    height: 533px;
+    color: white;
+    background-color: #041B32;
+  }
+  
+  .bar {
+    width: 999px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .info1 {
+    padding-top: 72px;
+  }
+  .optionsList {
+    padding-top: 46px;
+  }
+  
+  .optionsNavList {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: column;
+    list-style-type: none;
+    color: white;
+    font-size: 18px;
+    margin-top: 38px;
+    
+  }
+
+  .social {
+    margin-top: 25px;
+    margin-bottom: 77px;
+  }
+
+  .socialItem {
+    margin-right: 22px;
+  }
+  
+  .copyright {
+    position: absolute;
+    margin-left: 183px;
+    color: white;
+    bottom: 14px;
+    font-size: 14px;
+  }
